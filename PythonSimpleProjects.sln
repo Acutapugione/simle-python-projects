@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GuessTheNumber", "GuessTheN
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.pyproj", "{FFF744F5-2D80-4A1C-869C-CDDECA2FF9F4}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HttpRequestJsonToCSV", "HttpRequestJsonToCSV\HttpRequestJsonToCSV.pyproj", "{81E7FCB3-E1C1-49C7-9D5E-DBF7C867F0C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{443F6E89-D3EF-4964-86EF-0FDC63F3806C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFF744F5-2D80-4A1C-869C-CDDECA2FF9F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FFF744F5-2D80-4A1C-869C-CDDECA2FF9F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E7FCB3-E1C1-49C7-9D5E-DBF7C867F0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E7FCB3-E1C1-49C7-9D5E-DBF7C867F0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
